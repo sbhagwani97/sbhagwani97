@@ -11,12 +11,6 @@
 <a href="https://github.com/sbhagwani97">
   <img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
-<a href="https://instagram.com/sbhagwani97/">
-  <img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/sbhagwani97/">
-  <img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
-</a>
   </samp>
   <br>
  </p>
