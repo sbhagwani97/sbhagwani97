@@ -48,7 +48,6 @@ I am building toward becoming a leader in the **AI Application Industry**. My mi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbhagwani97&show_icons=true&theme=dracula&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbhagwani97&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
 
