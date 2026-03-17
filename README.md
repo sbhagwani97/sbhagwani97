@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-<a href="https://www.linkedin.com/in/sbhagwani97/">
+<a href="https://www.linkedin.com/in/sbhagwani">
   <img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sbhagwani97">
