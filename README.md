@@ -23,6 +23,13 @@ I am building toward becoming a leader in the **AI Application Industry**. My mi
   <img src="https://img.shields.io/badge/AgnoAI-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
+#### **Cloud & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
 #### **Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
