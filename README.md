@@ -51,7 +51,7 @@ I am building toward becoming a leader in the **AI Application Industry**. My mi
 
 ### 🌟 Featured Projects
 
-- 🏥 **[MediLink AI](https://github.com/sbhagwani97/medilink-ai)** – AI-powered healthcare assistant bridging patients and providers with intelligent workflows. *(update this tagline with your actual description)*
+- 🏥 **[MediLink AI](https://github.com/sbhagwani97/medilink-ai)** – AI-powered healthcare assistant bridging patients and providers with intelligent workflows.
 - 🛡️ **[Key-Forge-AI](https://github.com/sbhagwani97/key-forge-ai)** – High-performance LLM gateway with virtual key management, multi-provider routing, and a real-time observability dashboard.
 - 🧠 **[Mindful AI](https://github.com/sbhagwani97/mindful-ai)** – Voice-enabled AI companion for mental wellness, built with FastAPI and Dockerized for easy deployment.
 - 📺 **[YT-Summarizer](https://github.com/sbhagwani97/yt-summarizer)** – Distilling YouTube content into actionable insights using LLMs.
