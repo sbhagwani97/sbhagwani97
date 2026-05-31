@@ -2,7 +2,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   <h1>Hi, I'm Shivam Bhagwani</h1>
   <p><b>AI Integrations Engineer</b></p>
-
   <p>
     <a href="https://www.linkedin.com/in/sbhagwani97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/sbhagwani97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -12,7 +11,8 @@
 ---
 
 ### 💡 My Vision
-I am building toward becoming a leader in the **AI Application Industry**. My mission is to help people and businesses bridge the gap between complex AI models and efficient, real-world software workflows. 
+
+I am building toward becoming a leader in the **AI Application Industry**. My mission is to help people and businesses bridge the gap between complex AI models and efficient, real-world software workflows.
 
 ### 🛠 Tech Stack
 
@@ -47,9 +47,13 @@ I am building toward becoming a leader in the **AI Application Industry**. My mi
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+---
+
 ### 🌟 Featured Projects
 
-- 🛡️ **[Key-Forge-AI](https://github.com/sbhagwani97/key-forge-ai)** – AI-driven intelligent credential management.
+- 🏥 **[MediLink AI](https://github.com/sbhagwani97/medilink-ai)** – AI-powered healthcare assistant bridging patients and providers with intelligent workflows. *(update this tagline with your actual description)*
+- 🛡️ **[Key-Forge-AI](https://github.com/sbhagwani97/key-forge-ai)** – High-performance LLM gateway with virtual key management, multi-provider routing, and a real-time observability dashboard.
+- 🧠 **[Mindful AI](https://github.com/sbhagwani97/mindful-ai)** – Voice-enabled AI companion for mental wellness, built with FastAPI and Dockerized for easy deployment.
 - 📺 **[YT-Summarizer](https://github.com/sbhagwani97/yt-summarizer)** – Distilling YouTube content into actionable insights using LLMs.
 
 ---
