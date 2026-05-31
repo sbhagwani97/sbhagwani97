@@ -59,10 +59,7 @@ I am building toward becoming a leader in the **AI Application Industry**. My mi
 ---
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbhagwani97&layout=compact&theme=dracula&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
+ <img src="https://streak-stats.demolab.com?user=sbhagwani97&theme=dracula&hide_border=true" />
 </div>
 <p align="center">
   <i>Based in Princeton, NJ • Enthusiastic Cook • Photography Hobbyist</i>
